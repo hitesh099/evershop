@@ -60,7 +60,7 @@ Explore our demo store.
   <a href="https://demo.evershop.io/admin" target="_blank">
     <img alt="evershop-backend-demo" height="35" alt="EverShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-admin-demo.png"/>
   </a>
-</p>
+</p> 
 <b>Demo user:</b>
 
 Email: demo@evershop.io<br/>
